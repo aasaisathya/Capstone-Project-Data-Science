@@ -8,7 +8,6 @@ A Udacity Data Scientist Nanodegree Project
 3. [File Descriptions](#files)
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
-6. [Instructions]
 
 
 ## Installation <a name="installation"></a>
@@ -22,7 +21,7 @@ Matplotlib
 Seaborn
 
 
-## Project Overview<a name="motivation"></a>
+## Project Motivation<a name="motivation"></a>
 
 At the present time, a lot of corporates moved their business model from a one-time fee to a monthly or annual subscription. The customers do have several options and have right to call-off their subscription at any point in time or in some cases, lower to the free subscription model. At the same time, some of the companies need to keep their customers at the paid level. It is pertient at this point to assess/predict the churn out of the consumers in almost every industry.
 
